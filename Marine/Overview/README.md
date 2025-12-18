@@ -34,3 +34,22 @@ Hún notar Python til að sækja sjálfvirkt lýsingar um gangasettin og búa ti
 ---
 
 **Í þessari vinnubók er hægt að rannsaka  öll gagnasett Copernicusar um hafið á sjálvirkan hátt. Þetta gerir það að verkum að hafgögn eru enn sem gerir gögn um hafið aðgengilegri en áður.**
+
+---
+Skjalið er unnið fyrir Blue North verkefni:
+<p align="center">
+  <a href="https://copernicus.gis.is/homepage/index.php/home/hafthjonusta-copernicus/blue-north-verkefnid/">
+    <img src="https://atlas.lmi.is/gn/myndir/BlueNorth_Logo.png"
+         width="120"
+         alt="Blue North Logo">
+  </a>
+</p>
+
+Þessi verkefni er studd af:
+<p align="center">
+  <a href="">
+    <img src="https://atlas.lmi.is/gn/myndir/logo_cmems_bn.png"
+         width="1000"
+         alt="CMEMS Logo">
+  </a>
+</p>

@@ -34,3 +34,22 @@ Afterwards you can also display the dataset both by downloading the data or usin
 ---
 
 **This notebook provides an automated way to explore and document Copernicus Marine datasets, making ocean data more accessible.**
+
+---
+The Notebook is created by the Blue North project:
+<p align="center">
+  <a href="https://copernicus.gis.is/homepage/index.php/home/hafthjonusta-copernicus/blue-north-verkefnid/">
+    <img src="https://atlas.lmi.is/gn/myndir/BlueNorth_Logo.png"
+         width="120"
+         alt="Blue North Logo">
+  </a>
+</p>
+
+This project is supported by:
+<p align="center">
+  <a href="">
+    <img src="https://atlas.lmi.is/gn/myndir/logo_cmems_bn.png"
+         width="1000"
+         alt="CMEMS Logo">
+  </a>
+</p>
